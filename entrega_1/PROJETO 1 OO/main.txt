@@ -1,0 +1,15 @@
+area de figuras geometricas
+
+import CLASSE CIRCULO 
+import CLASSE QUADRADO
+import CLASSE TRIANGULO 
+import CLASSE CUBO
+
+area_quadrado (10)
+area_cubo (5)
+perimetro_circulo (8)
+area_triangulo (10,5)
+
+
+terminal results
+

@@ -1,0 +1,14 @@
+CIRCULO
+
+Atributos
+
+area
+perimetro
+
+area_circulo (raio)
+pi = 3,14
+pi * (raio*raio)
+
+perimetro_circulo (raio)
+pi = 3,14
+2*pi*raio

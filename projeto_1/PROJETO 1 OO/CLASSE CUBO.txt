@@ -1,0 +1,12 @@
+CUBO
+
+Atributos
+
+area
+volume
+
+area_cubo (lado)
+6* (lado*lado)
+
+volume_cubo (lado)
+lado*lado*lado

@@ -1,0 +1,12 @@
+QUADRADO 
+
+Atributos
+
+area
+perimetro 
+
+area_quadrado (lado)
+lado*lado
+
+perimetro_quadrado (lado)
+4*lado
