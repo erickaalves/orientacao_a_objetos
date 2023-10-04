@@ -5,10 +5,10 @@ import CLASSE QUADRADO
 import CLASSE TRIANGULO 
 import CLASSE CUBO
 
-area_quadrado (10)
-area_cubo (5)
-perimetro_circulo (8)
-area_triangulo (10,5)
+medida.area_quadrado
+medidas.area_cubo
+medidas.perimetro_circulo
+medidas.area_triangulo
 
 
 terminal results

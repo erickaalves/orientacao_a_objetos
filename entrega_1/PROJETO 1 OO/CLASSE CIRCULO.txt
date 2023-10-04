@@ -5,10 +5,10 @@ Atributos
 area
 perimetro
 
-area_circulo (raio)
 pi = 3,14
-pi * (raio*raio)
 
-perimetro_circulo (raio)
-pi = 3,14
-2*pi*raio
+def area_circulo ()
+    area_circulo = pi * (raio*raio)
+
+def perimetro_circulo ()
+    perimetro_circulo = 2*pi*raio

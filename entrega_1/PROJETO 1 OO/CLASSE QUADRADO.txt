@@ -5,8 +5,8 @@ Atributos
 area
 perimetro 
 
-area_quadrado (lado)
-lado*lado
+def area_quadrado ()
+    area_quadrado = lado*lado
 
-perimetro_quadrado (lado)
-4*lado
+def perimetro_quadrado ()
+    perimetro_quadrado = lado*lado

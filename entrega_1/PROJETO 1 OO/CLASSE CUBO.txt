@@ -5,8 +5,8 @@ Atributos
 area
 volume
 
-area_cubo (lado)
-6* (lado*lado)
+def area_cubo ()
+    area_cubo = 6* (lado*lado)
 
-volume_cubo (lado)
-lado*lado*lado
+def volume_cubo ()
+    volume_cubo = *lado*lado
